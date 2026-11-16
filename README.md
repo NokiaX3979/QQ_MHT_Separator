@@ -1,2 +1,0 @@
-# QQ_MHT_Separator
-将QQ生成的超大MHT聊天记录分离为图片+文字html页面的工具
